@@ -1,7 +1,7 @@
 """The ants module implements game logic for Ants Vs. SomeBees."""
 
-# Name:
-# Email:
+# Name: Ludwig von Schoenfeldt
+# Email: lvschoenfeldt@gmail.com
 
 import random
 import sys
